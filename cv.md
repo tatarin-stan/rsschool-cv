@@ -2,9 +2,9 @@
 ___
 ### Contact information:
 
->Location: Kyiv, Ukraine
->Phone: +380 66 587 3156
->Email: tolikvasulyk95@gmail.com
+>Location: Kyiv, Ukraine ;
+>Phone: +380 66 587 3156 ;
+>Email: tolikvasulyk95@gmail.com ;
 __
 >Github:  [tatarin-stan](https://github.com/tatarin-stan)
 >Telegram:  [Antinoys](https://t.me/antinoys)
@@ -60,6 +60,6 @@ let star = '*';
 |[devEducation front-end](https://deveducation.com/uk/courses/)    | didn't finish |
 
 ### Language:
- **Ukraine** :  Native
- **Russian** : С2
- **English** : A2 (11/17 · Результат 64%( Not bad!) - EPAM test)
+ **Ukraine** :  Native ;
+ **Russian** : С2 ;
+ **English** : A2 (11/17 · Результат 64%( Not bad!) - EPAM test) ;
